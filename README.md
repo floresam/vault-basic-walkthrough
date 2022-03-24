@@ -5,7 +5,7 @@ The most basic version of a hashicorp vault demo
 2. Run `vault` to verify your installation
     
     ![image](https://user-images.githubusercontent.com/15929779/160003315-56fe9143-ec7d-4cb9-9f0f-e28c60281c55.png)
-3. Start your server in dev mode with `vault server - dev`
+3. Start your server in dev mode with `vault server -dev`
 Note: NEVER EVER DO THIS IN PRODUCTION!!!!
     
     ![image](https://user-images.githubusercontent.com/15929779/160003463-63b7de1e-0416-44fb-b0f9-298e44b3188d.png)
